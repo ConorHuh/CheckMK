@@ -435,8 +435,3 @@ def main(servers):
 
 if __name__ == "__main__":
     main("serverlist.txt")
-
-
-    #\\d1wbchappdev1\c$\py_scripts
-
-    #DoLcDj%9mwXvVq4jG@lZgF
